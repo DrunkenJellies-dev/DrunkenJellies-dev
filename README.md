@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for Eonic Digital as a Junior Developer<br>💬 I’m currently working on ProteanCMS<br>🌱 I’m currently learning Arduino Development<br>👯 I’m looking to collaborate on a Game Jam<br>💬 Ask me about Anything!
+🔭 I’m currently working at Eonic Digital as a Junior Developer<br>💬 I’m currently working on ProteanCMS<br>🌱 I’m currently learning Arduino Development<br>👯 I’m looking to collaborate on a Game Jam<br>💬 Ask me about Anything!
 
 
 ## 🌐 Socials:
